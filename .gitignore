@@ -4,3 +4,10 @@
 # Hugo
 resources/
 public/
+
+*.gem
+.bundle
+.sass-cache
+_site
+.idea
+.DS_Store
