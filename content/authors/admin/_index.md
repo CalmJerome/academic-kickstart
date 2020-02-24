@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate 
+role: Ph.D. Student 
 
 # Organizations/Affiliations
 organizations:
@@ -68,6 +68,6 @@ user_groups:
 - Students
 ---
 
-Jianyu Wu is a Ph.D. candidate of computer software and theory at the [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/), Peking University. Now, He is under the supervision of Prof. [Minghui Zhou](http://sei.pku.edu.cn/~zhmh/). His research interests include mining software engineering data, empirical software engineering and open source ecosystem. 
+Jianyu Wu is a Ph.D. Student of computer software and theory at the [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/), Peking University. Now, He is under the supervision of Prof. [Minghui Zhou](http://sei.pku.edu.cn/~zhmh/). His research interests include mining software engineering data, empirical software engineering and open source ecosystem. 
 
 武健宇, 北京大学信息科学技术学院计算机软件与理论专业一年级博士生(直博)，师从周明辉教授。他的研究兴趣主要包括软件工程数据挖掘，实证软件工程和开源生态系统。
