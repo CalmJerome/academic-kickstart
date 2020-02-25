@@ -2,10 +2,10 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
-title = "Experience"
+title = "Education"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Peking University"
+  company = "Ph.D in Computer Software and Theory"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Beijing, China"
+  date_start = "2019-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Postgraduate Recommendation
+  - Lab: Open Source Software Data Analytics Lab
+  - Supervisor: Minghui Zhou
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "University of Science and Technology, Beijing"
+  company = "B.S. in Computer Science and Technology"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Beijing, China"
+  date_start = "2015-09-01"
+  date_end = "2019-07-01"
+  description = """
+  
+  GPA: 3.89/4.00, Rank: 1/159
+  - Lab: Artificial Intelligence 3D
+  - Leader: Xiaojuan Ban
+  """
 
 +++

@@ -32,7 +32,7 @@ education:
     year: 2019 - Today
   - course: B.S. in Computer Science and Technology
     institution: University of Science and Technology, Beijing
-    year: 2015 - 2019
+    year: 2015 - Present
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
