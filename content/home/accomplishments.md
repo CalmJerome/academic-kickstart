@@ -28,6 +28,35 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Chinese Association for Artificial Intelligence & Ministry of Education of the People's Republic of China"
+  organization_url = "https://en.caai.cn/"
+  title = "Third Winner & The First Prize in the National Contest of University Computer Games Championship"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-08-01"
+  date_end = ""
+  description = ""
+
+  [[item]]
+  organization = "Beijing Municipal Commission of Education, PR China"
+  organization_url = "http://jw.beijing.gov.cn/"
+  title = "The Second Prize in the 9th Undergraduate Physical Experiment Competition of Beijing"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-11-20"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "The Lan Qiao Organizing Committee & Ministry of Industry and Information Technology of the People's Republic China"
+  organization_url = "http://www.lanqiaobei.cn/index.html#introduction"
+  title = "The Second Prize in the Contest of Lan Qiao Cup"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-05-02"
+  date_end = ""
+  description = ""
 
 
 +++

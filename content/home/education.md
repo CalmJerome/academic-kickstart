@@ -42,6 +42,12 @@ date_format = "Jan 2006"
   GPA: 3.89/4.00, Rank: 1/159
   - Lab: Artificial Intelligence 3D
   - Leader: Xiaojuan Ban
+
+  Director of PR Department of Student Union
+  - Term: 2016.06 - 2017.06
+  - Responsible for assoication with other school unions.
+
+  
   """
 
 +++
